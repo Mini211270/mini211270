@@ -8,7 +8,10 @@ I’m currently interested in cybersecurity/software development.
 
 ### Languages & Tools
 <p align="left">
-  
+  <img src="java.png" alt="Java Icon" width="75" height="75">
+  <img src="python.png" alt="Python Icon" width="75" height="75">
+  <img src="c-.png" alt="C Icon" width="75" height="75">
+  <img src="database.png" alt="SQL Icon" width="75" height="75">
 </p>
 
 
