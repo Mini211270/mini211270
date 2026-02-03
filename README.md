@@ -1,8 +1,22 @@
-## Hi there 👋
+# Pedro Oliveira :coffee: 
+
+**`Student of Computer Science and Engineering at NOVA University`**
+
+I’m a curious person who likes to mess with different programming languages and, above all, have fun while doing it!
+
+I’m currently interested in cybersecurity/software development.
+
+### Languages & Tools
+<p align="left">
+  
+</p>
+
+
+
 
 <!--
 **Mini211270/mini211270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
