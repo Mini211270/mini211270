@@ -6,13 +6,17 @@ I’m a curious person who likes to mess with different programming languages an
 
 I’m currently interested in cybersecurity/software development.
 
-### Languages & Tools
+---
+
+### Languages & Tools :wrench:
 <p align="left">
-  <img src="java.png" alt="Java Icon" width="75" height="75">
-  <img src="python.png" alt="Python Icon" width="75" height="75">
-  <img src="c-.png" alt="C Icon" width="75" height="75">
-  <img src="database.png" alt="SQL Icon" width="75" height="75">
+  <img src="java.png" alt="Java Icon" width="50" height="50" style="margin-right:20px;"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="python.png" alt="Python Icon" width="50" height="50" style="margin-right:20px;"> &nbsp;&nbsp;&nbsp;&nbsp;     <!-- a little bit ugly but it works-->
+  <img src="c-.png" alt="C Icon" width="50" height="50" style="margin-right:20px;"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="database.png" alt="SQL Icon" width="50" height="50" style="margin-right:20px;"> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+---
 
 
 
